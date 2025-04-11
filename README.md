@@ -1,4 +1,4 @@
-# 💧 Water Potability Prediction
+# 💧 Water Potability Prediction Using Machine Learning and Deep Learning
 
 This project uses multiple machine learning and deep learning techniques to predict the **potability of water** based on physicochemical parameters. It includes supervised classification, unsupervised clustering, heuristic feature selection, and a deep neural network.
 
